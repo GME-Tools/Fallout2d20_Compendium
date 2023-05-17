@@ -1,0 +1,120 @@
+{
+    "id": "fallout2d20-compendium",
+    "name": "fallout2d20-compendium",
+    "title": "Fallout 2d20 Compendium",
+    "description": "Compendium data for use with Fallout 2d20 system.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "GME-Tools"
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "packs": [
+        {
+            "label": "Perks",
+            "type": "Item",
+            "name": "perks",
+            "path": "./packs/perks.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Ammunition",
+            "type": "Item",
+            "name": "ammunition",
+            "path": "./packs/ammunition.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Weapons",
+            "type": "Item",
+            "name": "weapons",
+            "path": "./packs/weapons.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Weapon Mods",
+            "type": "Item",
+            "name": "weapon-mods",
+            "path": "./packs/weapon-mods.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Apparel",
+            "type": "Item",
+            "name": "apparel",
+            "path": "./packs/apparel.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Apparel Mods",
+            "type": "Item",
+            "name": "apparel-mods",
+            "path": "packs/apparel-mods.db",
+            "system": "./fallout"
+        },
+        {
+            "label": "Traits",
+            "type": "Item",
+            "name": "traits",
+            "path": "./packs/traits.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Robot Armor",
+            "type": "Item",
+            "name": "robot-armor",
+            "path": "./packs/robot-armor.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Robot Modules",
+            "type": "Item",
+            "name": "robot-modules",
+            "path": "./packs/robot-modules.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Consumables",
+            "type": "Item",
+            "name": "consumables",
+            "path": "./packs/consumables.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Books and Magazines",
+            "type": "Item",
+            "name": "books-and-magazines",
+            "path": "./packs/books-and-magazines.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Tools and Utility Items",
+            "type": "Item",
+            "name": "tools-and-utility-items",
+            "path": "./packs/tools-and-utility-items.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Creatures",
+            "type": "Actor",
+            "name": "creatures",
+            "path": "./packs/creatures.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Creature Abilities",
+            "type": "Item",
+            "name": "creature-abilities",
+            "path": "./packs/creature-abilities.db",
+            "system": "fallout"
+        }
+    ],
+    "system": "fallout",
+    "url": "https://github.com/GME-Tools/fallout2d20-compendium",
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
