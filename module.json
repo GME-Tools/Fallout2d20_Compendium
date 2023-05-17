@@ -3,7 +3,7 @@
     "name": "fallout2d20-compendium",
     "title": "Fallout 2d20 Compendium",
     "description": "Compendium data for use with Fallout 2d20 system.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "authors": [
         {
             "name": "GME-Tools"
@@ -115,6 +115,6 @@
     ],
     "system": "fallout",
     "url": "https://github.com/GME-Tools/fallout2d20-compendium",
-    "manifest": "https://github.com/GME-Tools/fallout2d20-compendium/releases/download/0.0.2/module.json",
-    "download": "https://github.com/GME-Tools/fallout2d20-compendium/releases/download/0.0.2/fallout2d20-compendium.zip"
+    "manifest": "https://github.com/GME-Tools/fallout2d20-compendium/releases/download/0.0.3/module.json",
+    "download": "https://github.com/GME-Tools/fallout2d20-compendium/releases/download/0.0.3/fallout2d20-compendium.zip"
 }
