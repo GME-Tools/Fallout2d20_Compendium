@@ -1,6 +1,5 @@
 {
     "id": "fallout2d20-compendium",
-    "name": "fallout2d20-compendium",
     "title": "Fallout 2d20 Compendium",
     "description": "Compendium data for use with Fallout 2d20 system.",
     "version": "0.0.4",
@@ -11,7 +10,7 @@
     ],
     "compatibility": {
         "minimum": "10",
-        "verified": "10"
+        "verified": "10.291"
     },
     "packs": [
         {
@@ -113,7 +112,11 @@
             "system": "fallout"
         }
     ],
-    "system": "fallout",
+    "relationships": {
+        "systems": [{
+            "id": "fallout"
+        }]
+    },
     "url": "https://github.com/GME-Tools/fallout2d20-compendium",
     "manifest": "https://github.com/GME-Tools/fallout2d20-compendium/blob/main/module.json",
     "download": "https://github.com/GME-Tools/fallout2d20-compendium/archive/refs/heads/main.zip"
