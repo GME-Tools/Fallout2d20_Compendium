@@ -2,7 +2,7 @@
     "id": "fallout2d20-compendium",
     "title": "Fallout 2d20 Compendium",
     "description": "Compendium data for use with Fallout 2d20 system.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "authors": [
         {
             "name": "GME-Tools"
@@ -109,6 +109,13 @@
             "type": "Item",
             "name": "creature-abilities",
             "path": "./packs/creature-abilities.db",
+            "system": "fallout"
+        },
+        {
+            "label": "Rules",
+            "type": "JournalEntry",
+            "name": "fallout-rules",
+            "path": "./packs/rules.db",
             "system": "fallout"
         }
     ],
