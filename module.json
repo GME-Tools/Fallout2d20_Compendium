@@ -120,10 +120,28 @@
         }
     ],
     "relationships": {
-        "systems": [{
-            "id": "fallout"
-        }]
+        "systems": [
+            { "id": "fallout" }
+        ],
+        "requires": [
+            { "id": "babele" }
+        ]
     },
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json",
+          "flags": {}
+        },
+        {
+          "lang": "fr",
+          "name": "Français",
+          "path": "lang/fr.json",
+          "flags": {}
+        }
+      ],
+    "esmodules": ["scripts/register-babele.js"],
     "url": "https://github.com/GME-Tools/fallout2d20-compendium",
     "manifest": "https://raw.githubusercontent.com/GME-Tools/fallout2d20-compendium/main/module.json",
     "download": "https://github.com/GME-Tools/fallout2d20-compendium/archive/refs/heads/main.zip"

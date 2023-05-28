@@ -1,0 +1,76 @@
+{
+	"label": "Skills",
+	"mapping": {
+		"img": "img",
+	},
+	"entries": [
+		{
+			"id": "Athletics",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Athletics.png",
+		},
+		{
+			"id": "Barter",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Barter.png",
+		},
+		{
+			"id": "Big Guns",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Big-Guns.png",
+		},
+		{
+			"id": "Energy Weapons",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Energy-Weapons.png",
+		},
+		{
+			"id": "Explosives",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Explosives.png",
+		},
+		{
+			"id": "Lockpick",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Lockpick.png",
+		},
+		{
+			"id": "Medicine",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Medicine.png",
+		},
+		{
+			"id": "Melee Weapons",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Melee-Weapons.png",
+		},
+		{
+			"id": "Pilot",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Pilot.png",
+		},
+		{
+			"id": "Repair",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Repair.png",
+		},
+		{
+			"id": "Science",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Science.png",
+		},
+		{
+			"id": "Small Guns",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Small-Guns.png",
+		},
+		{
+			"id": "Sneak",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Sneak.png",
+		},
+		{
+			"id": "Speech",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Speech.png",
+		},
+		{
+			"id": "Survival",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Survival.png",
+		},
+		{
+			"id": "Throwing",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Throwing.png",
+		},
+		{
+			"id": "Unarmed",
+			"img": "modules/fallout2d20-compendium/artwork/Skills/Unarmed.png",
+		}
+	]
+}

@@ -1,0 +1,228 @@
+{
+	"label": "Armes",
+	"mapping": {
+		"description": "data.description",
+		"mods": "data.mods.list"
+	},
+	"entries": {
+		".44 Pistol": {
+			"name": "Pistolet .44",
+			"description":"<p><span class=\"fontstyle0\">Le pistolet .44 est un revolver à double action, chambré pour utiliser des cartouches .44. C'est une arme puissante, mais moins adaptée aux mods que les autres pistolets. En raison de leur design simple et robuste, ces armes sont précieuses pour leurs propriétaires, mais elles ne sont pas difficiles à trouver au point d'être vraiment rares.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>",
+			"mods":"prout"
+		},
+		"10mm Pistol": {
+			"name": "10mm Pistol"
+		},
+		"10mm Pistol Arm Attachment": {
+			"name": "10mm Pistol Arm Attachment"
+		},
+		"Aluminum Baseball Bat": {
+			"name": "Aluminum Baseball Bat"
+		},
+		"Assault Rifle": {
+			"name": "Assault Rifle"
+		},
+		"Baseball Bat": {
+			"name": "Baseball Bat"
+		},
+		"Baseball Grenade": {
+			"name": "Baseball Grenade"
+		},
+		"Baton": {
+			"name": "Baton"
+		},
+		"Board": {
+			"name": "Board"
+		},
+		"Bottlecap Mine": {
+			"name": "Bottlecap Mine"
+		},
+		"Boxing Gloves": {
+			"name": "Boxing Gloves"
+		},
+		"Buzz-Saw Arm Attachment": {
+			"name": "Buzz-Saw Arm Attachment"
+		},
+		"Combat Knife": {
+			"name": "Combat Knife"
+		},
+		"Combat Rilfe": {
+			"name": "Combat Rilfe"
+		},
+		"Combat Shotgun": {
+			"name": "Combat Shotgun"
+		},
+		"Deathclaw Gauntlet": {
+			"name": "Deathclaw Gauntlet"
+		},
+		"Double-Barrel Shotgun": {
+			"name": "Double-Barrel Shotgun"
+		},
+		"Fat Man": {
+			"name": "Fat Man"
+		},
+		"Flamer": {
+			"name": "Flamer"
+		},
+		"Flamer Arm Attachment": {
+			"name": "Flamer Arm Attachment"
+		},
+		"Flare Gun": {
+			"name": "Flare Gun"
+		},
+		"Frag Grenade": {
+			"name": "Frag Grenade"
+		},
+		"Frag Mine": {
+			"name": "Frag Mine"
+		},
+		"Gamma Gun": {
+			"name": "Gamma Gun"
+		},
+		"Gatling Laser": {
+			"name": "Gatling Laser"
+		},
+		"Gauss Rifle": {
+			"name": "Gauss Rifle"
+		},
+		"Gun Bash (1H)": {
+			"name": "Gun Bash (1H)",
+			"description": null
+		},
+		"Gun Bash (2H)": {
+			"name": "Gun Bash (2H)",
+			"description": null
+		},
+		"Handy Rock": {
+			"name": "Handy Rock",
+			"description": null
+		},
+		"Heavy Incinerator": {
+			"name": "Heavy Incinerator"
+		},
+		"Hunting Rifle": {
+			"name": "Hunting Rifle"
+		},
+		"Institute Laser": {
+			"name": "Institute Laser"
+		},
+		"Javelin": {
+			"name": "Javelin"
+		},
+		"Junk Jet": {
+			"name": "Junk Jet"
+		},
+		"Knuckles": {
+			"name": "Knuckles"
+		},
+		"Laser Emiter Arm Attachment": {
+			"name": "Laser Emiter Arm Attachment"
+		},
+		"Laser Gun": {
+			"name": "Laser Gun"
+		},
+		"Laser Musket": {
+			"name": "Laser Musket"
+		},
+		"Lead Pipe": {
+			"name": "Lead Pipe"
+		},
+		"Machete": {
+			"name": "Machete"
+		},
+		"Minigun": {
+			"name": "Minigun"
+		},
+		"Missle Launcher": {
+			"name": "Missle Launcher"
+		},
+		"Nuka Grenade": {
+			"name": "Nuka Grenade"
+		},
+		"Nuke Mine": {
+			"name": "Nuke Mine"
+		},
+		"Pince Arm Attachment": {
+			"name": "Pince Arm Attachment"
+		},
+		"Pipe Bolt-Action": {
+			"name": "Pipe Bolt-Action"
+		},
+		"Pipe Gun": {
+			"name": "Pipe Gun"
+		},
+		"Pipe Revolver": {
+			"name": "Pipe Revolver"
+		},
+		"Pipe Wrench": {
+			"name": "Pipe Wrench"
+		},
+		"Plasma Grenade": {
+			"name": "Plasma Grenade"
+		},
+		"Plasma Gun": {
+			"name": "Plasma Gun"
+		},
+		"Plasma Mine": {
+			"name": "Plasma Mine"
+		},
+		"Pool Cue": {
+			"name": "Pool Cue"
+		},
+		"Power Fist": {
+			"name": "Power Fist"
+		},
+		"Pulse Grenade": {
+			"name": "Pulse Grenade"
+		},
+		"Pulse Mine": {
+			"name": "Pulse Mine"
+		},
+		"Railway Rifle": {
+			"name": "Railway Rifle"
+		},
+		"Ripper": {
+			"name": "Ripper"
+		},
+		"Rolling Pin": {
+			"name": "Rolling Pin"
+		},
+		"Shishkebab": {
+			"name": "Shishkebab"
+		},
+		"Sledgehammer": {
+			"name": "Sledgehammer"
+		},
+		"Submachine Gun": {
+			"name": "Submachine Gun"
+		},
+		"Super Sledge": {
+			"name": "Super Sledge"
+		},
+		"Switchblade": {
+			"name": "Switchblade"
+		},
+		"Sword": {
+			"name": "Sword"
+		},
+		"Syringer": {
+			"name": "Syringer"
+		},
+		"Throwing Knives": {
+			"name": "Throwing Knives"
+		},
+		"Tire Iron": {
+			"name": "Tire Iron"
+		},
+		"Tomahawk": {
+			"name": "Tomahawk"
+		},
+		"Unarmed Strike": {
+			"name": "Unarmed Strike",
+			"description": null
+		},
+		"Walking Cane": {
+			"name": "Walking Cane"
+		}
+	}
+}
