@@ -2,7 +2,7 @@
     "id": "fallout2d20-compendium",
     "title": "Fallout 2d20 Compendium",
     "description": "Compendium data for use with Fallout 2d20 system.",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "authors": [
         {
             "name": "GME-Tools"
@@ -124,23 +124,10 @@
             { "id": "fallout" }
         ],
         "requires": [
-            { "id": "babele" }
+            { "id": "babele" },
+            { "id": "fallout-fr" }
         ]
     },
-    "languages": [
-        {
-          "lang": "en",
-          "name": "English",
-          "path": "lang/en.json",
-          "flags": {}
-        },
-        {
-          "lang": "fr",
-          "name": "Français",
-          "path": "lang/fr.json",
-          "flags": {}
-        }
-      ],
     "esmodules": ["scripts/register-babele.js"],
     "url": "https://github.com/GME-Tools/fallout2d20-compendium",
     "manifest": "https://raw.githubusercontent.com/GME-Tools/fallout2d20-compendium/main/module.json",
